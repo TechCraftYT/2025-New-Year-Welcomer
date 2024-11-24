@@ -2,3 +2,6 @@ Program that depending on the date and year says new year! Written in C# and Req
 
 
 Fun Little Side Project that I made in a few hours.
+
+
+Download the zip for the app.
